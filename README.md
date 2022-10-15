@@ -3,7 +3,7 @@ Instalasi :
     pkg update && pkg upgrade
     pkg install git
     pkg install php
-    pkg ginstall php7
+    pkg install php7
     pkg install curl
     git clone https://github.com/Anamaruchi/kartu
     cd kartu
